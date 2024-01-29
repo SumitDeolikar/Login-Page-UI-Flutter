@@ -1,16 +1,10 @@
-# project1
+#LoginPage
 
 A new Flutter project.
 
-## Getting Started
+This project is a starting point of Flutter for me.
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+![Login page](https://github.com/SumitDeolikar/Login-Page-UI-Flutter/assets/147622644/27b4ee44-62cc-4815-adfa-0d757f6ed07f)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![register page](https://github.com/SumitDeolikar/Login-Page-UI-Flutter/assets/147622644/4f9105c6-9fe6-41c5-ab19-93260a43a8a4)
